@@ -27,7 +27,7 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Comands",
+      name: "Commands",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/command",
