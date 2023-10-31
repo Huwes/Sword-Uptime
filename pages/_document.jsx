@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Discord botlarınızı 7/24 ücretsiz bir şekilde aktif tutmaya ne dersiniz? "
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MusicMaker" />
