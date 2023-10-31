@@ -34,14 +34,14 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Destek",
+      name: "Destek Sunucusu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
       href: "https://discord.gg/hostinger",
     },
     {
       link: true,
-      name: "Add Bot",
+      name: "Botu Ekle",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
       href: "https://discord.com/api/oauth2/authorize?client_id=1073902407802687538&permissions=8&scope=bot",
@@ -55,7 +55,7 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Partnerler",
+      name: "Partnerlerimiz",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
