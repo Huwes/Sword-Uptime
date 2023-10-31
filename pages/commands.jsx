@@ -1,8 +1,8 @@
 import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
 
-export default function Commands() {
-  const commands = [
+export default function komutlar() {
+  const komutlar = [
     "/help",
     "/invite",
     "/lyrics",
