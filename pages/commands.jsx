@@ -2,7 +2,7 @@ import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
 
 export default function Commands() {
-  const Command = [
+  const command = [
     "/help",
     "/invite",
     "/lyrics",
