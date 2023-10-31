@@ -27,10 +27,10 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Komutlar",
+      name: "Comands",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
-      href: "/komutlar",
+      href: "/command",
     },
     {
       link: true,
